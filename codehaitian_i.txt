@@ -1,0 +1,152 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"       
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+      
+ <html xmlns="http://www.w3.org/1999/xhtml">  
+     
+   
+<head>       
+
+   <title> Bubble Under — The diving club for HAITIANS </title>      
+    
+ <meta http-equiv="Content-Type"       
+         content="text/html; charset=utf-8"/>       
+   
+<link href = "style1.css" rel="stylesheet" type = "text/css" />
+
+<script src="javascript_behavior" >  </script>
+
+</head>       
+   
+
+
+
+<body>   
+
+
+<div class="beiges">
+
+   
+
+<h1> Welcome to our Daycare Facility located in Alexandria </h1> 
+
+
+ <div id ="navigation">
+
+  <ul>
+
+<!--anchor tags (a) do Not need to be surrounde by li -->
+
+ <li> <a href = "codhaitian_a.html"> About Us  </a> </li>
+
+ <li> <a href = "codehaitian_i.html"> Welcome  </a> </li>  
+
+ <li> <a href = "codhaitian_c.html"> Contact Us </a> </li>
+
+
+  </ul>
+
+  </div>   <!--this is for the navigation div -->
+
+ 
+
+  
+
+   <p> 
+         <!-- THIS IS A PICTURE FOR THE SITE -->
+         <img class= "thick-red-border smaller-image" 
+          src = "Elle_persistence_focus.JPG" width = "600" height = "900" 
+          alt = "A circle of divers practive their skill" > 
+   </p>
+
+</div>
+
+     <!--make sure i review this before putting it on the site -->
+
+   <p> Telegraph Dentist is a full service general, family, cosmetic, implant, pediatric and surgical dental practice serving the Greenbrier area of Chesapeake since 1985. 
+
+Our dental office has <strong> five </strong> dentists, <strong> Dr. Daniel Etheridge, Dr. Gregg Harrell, Dr. Collin Rice, Dr. Celeste Balino and Dr. Garrett Spruill. </strong> 
+
+We currently have <strong> seven </strong> dental hygienists, <strong> twenty </strong> dental assistants, and <strong> twenty-one </strong> office administrators to the team, making our practice one of the most successful in the area. 
+
+Our dental team has worked hard to ensure our patients that they are receiving the best care possible. We strive at keeping the most up to date equipment, even installing televisions with DVD players, computers, intra-oral cameras and digital x-rays in each operatory, allowing us to educate our patients as well giving them all of the comforts of home. 
+
+We also follow the most up-to-date guidelines for sterilization and we take pride in the many hours of continuing education which our doctors and staff attend each year. 
+
+We thank you for considering us to provide your dental care. We hope that our relationship will be mutually gratifying in the years to come. Telegraph Dentist is a people-oriented dental practice, so we look forward to knowing you as friends as well as patients. 
+
+The information that is provided in this website is to highlight some of our services and policies. We hope that you will find it useful and helpful. However, these pages are not meant as a substitute for our personal response to your specific questions and concerns. Please do not hesitate to contact us by calling (703) 313-6999 or by e-mail at <strong> smile@greenbrierdental.com </strong>  if you need more information. 
+
+Our dentists provide a full range of dental treatments including:
+
+
+
+
+Our practice also offers oral conscious as well as IV sedation for adults to provide the maximum comfort and to help eliminate dental fear. 
+
+</p> 
+
+
+
+
+
+<!-- the ordered list WAS NOT working until i put the hash symbol(#) there. It is a place holder, so when i have the link, i can use it instead of the hash -->
+
+   <p> View more <a href="#"> pictures </a> </p>
+ 
+
+
+<p> <em> Top 3 things our daycare offer </em>: </p>
+
+<div id="browns">
+
+<ol>
+
+<li> Safety </li>
+<li> Love </li>
+<li> Exceptional Care </li>
+
+</ol>
+
+
+
+<!--You can build web forms that actually submit data to a server using nothing more than pure HTML. You can do this by specifying an action on your form element.-->
+
+<!--(FORM ELEMENT FOR FUTURE USE, DELETE ALL THE CAPS WITHIN THE COMMENT)<form action="/put-in-url-where-i-want-to-submit-form-data-here"> --> 
+
+
+</div>
+
+<form>
+
+<!--required is there to make sure the user inputs a text -->
+<p> other: <input type="text" required placeholder="this is a place-holder text"> </p>
+
+
+<!-- TO DO: i need to move the submit button around in CSS -->
+<button type="submit"> submit </button> </br> </br> </br>
+
+
+</form>
+
+
+
+<label> <input type="radio" name="kid-age" checked> infant </label>
+<label> <input type="radio" name="kid-age"> toddler</label>
+<label> <input type="checkbox" name="personality"> outgoing</label>
+<label> <input type="checkbox" name="personality" checked> energetic</label>
+   <ul>
+
+<li> To find out more, contact Club Secretary Wallace Audena on 
+01793 641207 </li>
+
+<li> <a href = “mailto:wall@gmail.com” > email wall@gmail.com </a>.</li>
+     
+   </ul>
+<!--For JavaScript: command=alert   statement=sentence-->
+
+
+
+</body>       
+
+
+</html>

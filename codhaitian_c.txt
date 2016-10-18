@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"       
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+      
+ <html xmlns="http://www.w3.org/1999/xhtml">  
+     
+   
+<head>       
+
+   <title> Contact us at Bubble Under for HAITIANS </title>      
+    
+ <meta http-equiv="Content-Type"       
+         content="text/html; charset=utf-8"/>       
+   
+<link href = "style1.css" rel="stylesheet" type = "text/css" />
+
+</head>       
+   
+<body>       
+
+
+
+
+
+
+  <div id ="navigation">
+  <ul>
+
+ <li> <a href = "codhaitian_a.html"> About Us  </a> </li>
+
+ <li> <a href = "codehaitian_i.html"> Welcome  </a> </li>  
+
+ <li> <a href = "codhaitian_c.html"> Contact Us </a> </li>
+
+
+  </ul>
+
+  </div> 
+
+
+   
+   <h1> BubbleUnder.com </h1>
+
+   <p> Diving club for <em> Haitians </em>, let’s make a splash! </p>
+
+   
+   <!-- THIS IS A PICTURE FOR THE SITE -->
+
+   <p> <img src = "Elle_persistence_focus.JPG" width = "600" height = "900"
+       alt = "A circle of divers practive their skill" > </p>
+     
+   <p> Glad you could drop in and share some air with us! You’ve       
+       passed your underwater navigation skills and successfully       
+       found your way to the start point – or in this case, our       
+       home page. </p> 
+
+   
+
+   <h2> Contact Us </h2> 
+
+
+
+   <ul>
+
+<li> To find out more, contact Club Secretary Wallace Audena on 
+01793 641207 </li>
+
+<li> <a href = “mailto:wall@gmail.com” > email wall@gmail.com </a>.</li>
+     
+   </ul>
+
+</body>       
+
+<h3> c is Wallace </h3>
+
+</html>
